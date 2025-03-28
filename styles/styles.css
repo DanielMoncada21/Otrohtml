@@ -13,8 +13,8 @@ header {
 }
 
 nav {
-  background-color: #ffffff;
-  color: #fff;
+  background-color: #73ff00;
+  color: #0044ff;
   padding: 10px;
   text-align: center;
 }
@@ -35,7 +35,7 @@ main {
 
 footer {
   background-color: #09ff00;
-  color: #f7f7f7;
+  color: #6a008a;
   text-align: center;
   padding: 10px 0;
   position: fixed;
@@ -43,7 +43,7 @@ footer {
   bottom: 0;
 }
 a:link, a:visited {
-  background-color: white;
+  background-color: rgb(255, 0, 0);
   color: black;
   border: 2px solid green;
   padding: 10px 20px;
@@ -54,5 +54,5 @@ a:link, a:visited {
 
 a:hover, a:active {
   background-color: rgb(0, 255, 0);
-  color: white;
+  color: rgb(0, 4, 255);
 }
